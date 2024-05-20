@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="cropbox_logo.png" alt="Vocal Logo" width="190" height="180">
+    <img src="vocal_logo.png" alt="Vocal Logo" width="190" height="180">
   </a>
 
   <h3 align="center">Vocal</h3>
@@ -10,7 +10,7 @@
     <br />
   </p>
   <br>
-   <a  href="https://vocal-backend.vercel.app/" target="_blank" rel="noopener noreferrer" >View API Demo</a>
+   <!-- <a  href="https://vocal-backend.vercel.app/" target="_blank" rel="noopener noreferrer" >View API Demo</a> -->
   <br><br>
   <a  href="https://vocal-backend.vercel.app/" target="_blank" rel="noopener noreferrer" >View Application Demo</a>
 </div>
